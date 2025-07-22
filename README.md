@@ -117,5 +117,5 @@ Compatível oficialmente com Windows, mas pode ser adaptado para Linux/MacOs.
 Para arquivos com grandes volumes de dados, recomenda-se dividir em planilhas e fazer uma por vez.
 
 AGRADECIMENTOS:
-- Ao [Jardim Botânico do RJ](https://www.jbrj.gov.br/) pelo acesso ao Reflora
+- Ao [Jardim Botânico do RJ](https://www.jbrj.gov.br/) pelo acesso ao Reflora, plataforma que auxilia pesquisadores todos os dias na coleta e atualização de dados botânicos.
 - Aos contribuidores do projeto
