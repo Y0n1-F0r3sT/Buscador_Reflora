@@ -1,5 +1,5 @@
 # Buscador_Reflora
-O Buscador Reflora é uma ferramenta automatizada para coleta de dados taxonômicos do portal Reflora (Jardim Botânico do Rio de Janeiro), com foco em espécies vegetais, no link https://reflora.jbrj.gov.br/. Sendo capaz de ler uma entrada manual ou então planilha excel com uma coluna "Nome Científico" e ler os nomes das espécies vegetais, iterar sobre cada uma delas e coletar resultados botânicos significativos sobre as espécies, economizando horas de trabalho manual e exaustivo.
+O Buscador Reflora é uma ferramenta automatizada para coleta de dados taxonômicos do portal Reflora (Jardim Botânico do Rio de Janeiro), com foco em espécies vegetais, no link https://reflora.jbrj.gov.br/. Sendo capaz de ler uma entrada manual ou então uma planilha excel com uma coluna "Nome Científico" carregada com os os nomes científicos das espécies vegetais, iterar sobre cada uma delas e coletar resultados botânicos significativos sobre as espécies, economizando horas de trabalho manual e exaustivo.
 
 ÍNDICE
 - [Funcionalidades](#-funcionalidades)
@@ -80,6 +80,8 @@ Sintomas:                            Soluções:
 Antivírus bloqueia o .exe --------> Adicione exceção ou execute como administrador.
 Erro ao ler planilha -------------> Verifique se a coluna se chama EXATAMENTE: Nome Científico (com acento)
 Dados incompletos ----------------> Verifique se o nome científico está grafado corretamente
+Site fora do ar ------------------> Infelizmente, deve-se esperar o site do reflora voltar ao ar.
+
 
 FAQ (Perguntas Frequentes)
 P: Posso usar nomes vernáculos (populares)?
